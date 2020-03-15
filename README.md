@@ -1,3 +1,3 @@
 # Aro
 To create my own capstone project
-Thia ia a part of Coursera
+Thia is a part of Coursera and my minor degree
